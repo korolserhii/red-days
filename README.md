@@ -22,6 +22,7 @@ A private period diary for irregular cycles and PCOS.
 All data stays on the phone: no account, no ads, no analytics, cloud backup disabled.
 
 - Політика конфіденційності / Privacy policy: https://korolserhii.github.io/red-days/privacy.html
+- Умови використання / Terms of use: https://korolserhii.github.io/red-days/terms.html
 
 ## Важливо / Important
 
